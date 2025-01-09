@@ -7,11 +7,10 @@ This document provides a comprehensive overview of the stock price prediction pr
 
 1. [Introduction](#introduction)
 2. [Requirements and Updates](#requirements-and-updates)
-3. [Roles and Responsibilities](#roles-and-responsibilities)
-4. [Supporting Documentation](#supporting-documentation)
+3. [Supporting Documentation](#supporting-documentation)
     - [Process Documentation](#process-documentation)
     - [Conceptual Documentation](#conceptual-documentation)
-5. [Conclusion](#conclusion)
+4. [Conclusion](#conclusion)
 
 ---
 
